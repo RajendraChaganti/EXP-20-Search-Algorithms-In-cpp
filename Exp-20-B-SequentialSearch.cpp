@@ -31,7 +31,8 @@ int main() {
     }
 
     return 0;
-}/*
+}
+/*
 Output :
 Enter number of elements: 7
 Enter elements: 2
