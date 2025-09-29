@@ -39,7 +39,8 @@ int main() {
         cout << "Element not found in the array" << '\n';
     }
     return 0;
-}/*
+}
+/*
 Output :
 Enter the number of elements in the sorted array: 5
 Enter 5 sorted elements: 0
