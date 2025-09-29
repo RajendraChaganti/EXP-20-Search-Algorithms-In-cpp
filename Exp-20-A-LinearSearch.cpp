@@ -34,19 +34,19 @@ int main() {
 /*
 Output :
 Enter the number of elements in the array: 5
-Enter 5 elements: 10
-20
-30
-40
-50
-Enter the value to be searched: 40
-Element found at index: 3
+Enter 5 elements: 2
+5
+1
+6
+3
+Enter the value to be searched: 1
+Element found at index: 2
 Enter the number of elements in the array: 5
-Enter 5 elements: 10
-20
-30
-40
-50
-Enter the value to be searched: 25
+Enter 5 elements: 2
+5
+1
+6
+3
+Enter the value to be searched: 9
 Element not found in the array
 */
